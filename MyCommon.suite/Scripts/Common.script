@@ -1,0 +1,7 @@
+﻿Log "This is a helper suite script."
+
+
+to printMyLog
+	set Global MyVar to 100
+	return "This is my string!"
+end printMyLog
