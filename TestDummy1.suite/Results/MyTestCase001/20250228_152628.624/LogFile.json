@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running MyTestCase001.script",
+				"identifier": "START",
+				"timestamp": "2025-02-28 15:26:28.639 +0530"
+			},
+		{
+				"handlerName": "on_mytestcase001",
+				"timestamp": "2025-02-28 15:26:28.860 +0530",
+				"message": "This is my string!",
+				"scriptName": "MyTestCase001.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_mytestcase001",
+				"timestamp": "2025-02-28 15:26:28.871 +0530",
+				"message": "100",
+				"scriptName": "MyTestCase001.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2025-02-28 15:26:28.889 +0530",
+				"message": "This is a helper suite script.",
+				"scriptName": "C:/Users/durgaprasad.surath/Desktop/MyCommon.suite/Scripts/Common.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.277\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-02-28 15:26:28 +0530\", Successes:\"1\", TestCase:\"MyTestCase001.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-02-28 15:26:28.929 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 MyTestCase001.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-02-28 15:26:29.017 +0530"
+			}
+	],
+	"createdTimestamp": "2025-02-28 15:26:28.648 +0530"
+}
